@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RobynTraciLang
+- 👀 I’m interested in coding, music (especially live singing, recording, and production), eating, relaxing, and traveling.
+- 🌱 I’m currently learning web development fundamentals and git/terminal use.
+- 💞️ I’m looking to collaborate on anything fun!
+- 📫 How to reach me: jetblackkinks@gmail.com!
